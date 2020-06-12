@@ -1,4 +1,3 @@
-#多线程主机扫描	作者：张豫
 from sys import argv
 import subprocess
 import time
