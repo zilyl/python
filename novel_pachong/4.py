@@ -1,4 +1,4 @@
-#小说爬虫	作者：张豫
+#小说爬虫
 import requests
 import re
 url="http://www.xbiquge.la/29/29948/"
