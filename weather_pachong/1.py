@@ -1,4 +1,4 @@
-#多进程,爬取周至天气	作者：张豫
+#多进程爬取天气
 import requests
 import re
 import os
